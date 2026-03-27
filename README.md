@@ -1,6 +1,6 @@
 # Hi 👋, I'm Chaitanya
 
-💻 Java Developer | Spring Boot | Microservices Enthusiast  
+💻 Java Developer | Spring Boot | Microservices   
 🚀 Passionate about building scalable backend systems
 
 ---
