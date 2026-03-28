@@ -7,7 +7,7 @@
 
 # 👨‍💻 About Me
 
-- 🔭 Currently learning ****Spring AI*****
+- 🔭 Currently learning ****Spring AI****
 - 🌱 Working with **Spring Boot, REST APIs,Microservices Architecture, Kafka**
 - 💡 Interested in **Distributed Systems & Backend Development**
 - 📚 Exploring **Cloud & DevOps tools**
